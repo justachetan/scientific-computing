@@ -1,7 +1,7 @@
 # MTH373 Scientific Computing
 
 
-Assignments from MTH373 Scientific Computing taken by Dr. Kaushik Kalyanaraman at IIIT Delhi in Monsoon 2018
+Assignments from MTH373 Scientific Computing taken by [Dr. Kaushik Kalyanaraman](https://www.iiitd.ac.in/kaushik) at IIIT Delhi in Monsoon 2018
 
 ## Course Overview
 
