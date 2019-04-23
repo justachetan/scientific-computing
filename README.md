@@ -21,3 +21,4 @@ The next part of the course will discuss polynomial interpolation (including usi
 - Python 3.5+
 - Numpy
 - Pandas
+- matplotlib
