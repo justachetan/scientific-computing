@@ -22,3 +22,9 @@ The next part of the course will discuss polynomial interpolation (including usi
 - Numpy
 - Pandas
 - matplotlib
+
+## License 
+
+Copyright (c) 2019 Aditya Chetan
+
+For license information, see [LICENSE](LICENSE) or http://mit-license.org
